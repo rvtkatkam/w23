@@ -503,8 +503,9 @@ sup {
  */
 img {
   border-style: none;
-  max-width: 100%;
+  max-width: 75%;
   height: auto;
+  margin-top: -11px;
   vertical-align: middle;
 }
 
